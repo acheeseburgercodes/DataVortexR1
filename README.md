@@ -29,6 +29,6 @@ The last cell writes to the current working directory:
 
 - `df2_cleaned.csv`
 - `df1_cleaned.csv`
-- `merged_cleaned_dataset.csv`
+- `Final_dataset.csv`
 
 This folder also includes the cleaned tables used for submission (`dataset1_cleaned_posts.csv`, `dataset2_cleaned_users.csv`, `Final_dataset.csv`).
