@@ -2,6 +2,8 @@
 
 Use `DataVortexEDAR1.ipynb` to clean the recovered intake data and run EDA.
 
+The repo also contains the EDA report as FinalReportR1.pdf
+
 ## Open
 
 Google Colab or Jupyter (Python 3). Required packages: `pandas`, `numpy`, `matplotlib`.
